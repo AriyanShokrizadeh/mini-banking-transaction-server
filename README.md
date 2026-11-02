@@ -1,4 +1,5 @@
-# Mini Banking Cluster
+# Mini Banking Transaction Server
+# Distributed Systems - Assignment1
 
 A simulated banking API running on two FastAPI servers behind HAProxy, backed by
 three YugabyteDB YSQL nodes. Transactions use integer minor units, atomic ledger
